@@ -1,13 +1,12 @@
 # fluffyydev
 
 ## About
-All projects that are finished or actually function in some way can be found at [fluffyy.dev](https://fluffyy.dev)
-
+All projects that are finished or actually function in some way can be found at [fluffyy.dev](https://fluffyy.dev)\
 Most recently finished projects are in my github pinned repos
 
 I'm into luau (roblox scirpting) and web development (pretty sure thats the right name 💀).
-If you wanna contact for some reason then DM me on discord (dms always open) - @mycatis.cute
 
+If you wanna contact for some reason then DM me on discord (dms always open) - @mycatis.cute\
 Maybe give some type of game idea for me to make :)
 
 pfp is jhariah (might change idk)
