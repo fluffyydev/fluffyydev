@@ -2,6 +2,7 @@
 
 ## About
 All projects that are finished or actually function in some way can be found at [fluffyy.dev](https://fluffyy.dev)
+
 Most recently finished projects are in my github pinned repos
 
 I'm into luau (roblox scirpting) and web development (pretty sure thats the right name 💀).
