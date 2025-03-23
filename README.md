@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**fluffyydev/fluffyydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# fluffyydev
 
-Here are some ideas to get you started:
+## About
+All projects that are finished or actually function in some way can be found at [fluffyy.dev](https://fluffyy.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm into luau (roblox scirpting) and web development (pretty sure thats the right name 💀).
+If you wanna contact for some reason then DM me on discord (dms always open) - @mycatis.cute
+Maybe give some type of game idea for me to make :)
+
+pfp is jhariah (might change idk)
+
+[spotify profile](https://open.spotify.com/user/31deekhaazbc6jjy5fl2ay5bnmqe) if you want to see my concerning(ly good) music taste
+
+goodbye
