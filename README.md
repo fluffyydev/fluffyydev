@@ -6,6 +6,8 @@ Most recently finished projects are in my github pinned repos
 
 I'm into luau (roblox scirpting) and web development (pretty sure thats the right name 💀)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 If you wanna contact for some reason then DM me on discord (dms always open) - @mycatis.cute\
 Maybe give some type of game idea for me to make :)
 
@@ -13,4 +15,3 @@ pfp is jhariah (might change idk)
 
 [spotify profile](https://open.spotify.com/user/31deekhaazbc6jjy5fl2ay5bnmqe) if you want to see my concerning(ly good) music taste
 
-goodbye
