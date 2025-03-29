@@ -17,5 +17,5 @@ pfp is jhariah (might change idk)
 [spotify profile](https://open.spotify.com/user/31deekhaazbc6jjy5fl2ay5bnmqe) if you want to see my concerning(ly good) music taste
 
 
-Contribution Streak\
+Contribution Streak - if i lose it im going to commit (on github ofc..)\
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fluffyydev&theme=tokyonight" alt="mystreak"/>
