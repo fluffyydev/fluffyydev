@@ -14,7 +14,28 @@
 
 <p align="center">I do luau (roblox scirpting) and web development</p>
 
-<p align="center"><a href="https://www.fluffyy.dev/">Website</a></p>
+<table align="center">
+  <tr>
+    <th>Web Projects</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Main Website ( WIP )</td>
+    <td><a href="https://fluffyy.dev">fluffyy.dev</a></td>
+  </tr>
+  <tr>
+    <td>Streak Game</td>
+    <td><a href="https://streak.fluffyy.dev">streak.fluffyy.dev</a></td>
+  </tr>
+  <tr>
+    <td>Gradient Frame Maker</td>
+    <td><a href="https://frame-maker.fluffyy.dev">frame-maker.fluffyy.dev</a></td>
+  </tr>
+  <tr>
+    <td>To-do List</td>
+    <td><a href="https://to-do.fluffyy.dev">to-do.fluffyy.dev</a></td>
+  </tr>
+</table>
 
 <p align="center">
     <a href="https://github.com/fluffyydev"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluffyydev&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
