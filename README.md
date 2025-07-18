@@ -35,6 +35,10 @@
     <td>To-do List</td>
     <td><a href="https://to-do.fluffyy.dev">to-do.fluffyy.dev</a></td>
   </tr>
+  <tr>
+    <td>Jumpscare</td>
+    <td><a href="https://boo.fluffyy.dev">boo.fluffyy.dev</a></td>
+  </tr>
 </table>
 
 <p align="center">
