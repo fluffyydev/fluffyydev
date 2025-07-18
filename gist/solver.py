@@ -1,5 +1,5 @@
 #Introduction
-print('\033[40m' + '\033[37m' + "⭐ Made by  fluffyydev ⭐")
+print('\033[40m' + '\033[37m' + "⭐ Made by fluffyydev ⭐")
 print('\033[0m' + '\033[34m' + "The question below is the one I will solve for you: \n")
 #Input
 NumberForQuestion = input('\033[35m' + "\nIf you would only like to know if a specific door is open, type the number of the door you want from \033[4m\033[30m1-1000\033[0m\033[35m. Otherwise, type \033[4m\033[30m'all'\033[0m\033[35m for a list of every door or \033[4m\033[30m'explain'\033[0m\033[35m for the explanation along with the answer!.")
