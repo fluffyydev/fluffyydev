@@ -20,23 +20,23 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>Main Website ( WIP )</td>
+    <td><a href="https://github.com/fluffyydev">Main Website ( WIP )</td>
     <td><a href="https://fluffyy.dev">fluffyy.dev</a></td>
   </tr>
   <tr>
-    <td>Streak Game</td>
+    <td><a href="https://github.com/fluffyydev/streak">Streak Game</td>
     <td><a href="https://streak.fluffyy.dev">streak.fluffyy.dev</a></td>
   </tr>
   <tr>
-    <td>Gradient Frame Maker</td>
+    <td><a href="https://github.com/fluffyydev/frame-maker">Gradient Frame Maker</td>
     <td><a href="https://frame-maker.fluffyy.dev">frame-maker.fluffyy.dev</a></td>
   </tr>
   <tr>
-    <td>To-do List</td>
+    <td><a href="https://github.com/fluffyydev/to-do">To-do List</td>
     <td><a href="https://to-do.fluffyy.dev">to-do.fluffyy.dev</a></td>
   </tr>
   <tr>
-    <td>Jumpscare</td>
+    <td><a href="https://github.com/fluffyydev/boo">Jumpscare</td>
     <td><a href="https://boo.fluffyy.dev">boo.fluffyy.dev</a></td>
   </tr>
 </table>
