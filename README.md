@@ -1,6 +1,8 @@
 # fluffyydev <-- me
 <p align="center">
-  <img src="https://file.fluffyy.dev/storage/gif/bar.gif" title="88x31 made by fluffy :3">
+  <a href="https://fluffyy.dev/">
+    <img src="https://file.fluffyy.dev/storage/gif/bar.gif" title="88x31 made by fluffy :3">
+  </a>
 </p>
 
 <p align="center">
